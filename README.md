@@ -1,3 +1,4 @@
+watching_count
 - 👋 Hi, I’m @UjjwalChauhan382 〽️
 - 📝 I’m interested in Data Science and Data Analysis ‼️ ⌛
 - 🌱 I’m currently learning work related to ^DATA^ ♾️
