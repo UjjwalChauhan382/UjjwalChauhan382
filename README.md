@@ -10,7 +10,6 @@
 <h4 align="left">- ✨ I’m looking to collaborate with Projects and Insightful Ideas ➿</h4>
 <h4 align="left">- 📫 To reach me , Mail me on ujjwalchauhan382@gmail.com 👁️‍🗨️</h4>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Github Stats ....***
 
