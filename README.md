@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=UjjwalChauhan382&color=brightgreen" alt="watching_count" />
-<h1 align="center">👋 Hi, I’m @UjjwalChauhan382 🧑‍💻</h1>
+<h1 align="center">👋 Hi, I’m @Ujjwal Chauhan 🧑‍💻</h1>
 <p align="right">
 <a href="https://www.linkedin.com/in/ujjwal-chauhan-7337961b8/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
